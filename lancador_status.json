@@ -1,5 +1,5 @@
 {
-  "apto": true,
-  "mensagem": "",
+  "apto": false,
+  "mensagem": "teste",
   "versao_minima": "1.0.0"
 }
