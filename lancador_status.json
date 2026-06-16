@@ -1,5 +1,5 @@
 {
-  "apto": false,
-  "mensagem": "Aguardando Validação",
+  "apto": true,
+  "mensagem": "",
   "versao_minima": "1.0.0"
 }
